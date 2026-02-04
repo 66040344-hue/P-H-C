@@ -38,7 +38,7 @@ nav a:hover {
 .hero {
   height: 70vh;
   background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),
-              url('../images/hero.jpg') center/cover;
+              url('../images/hero.png') center/cover;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -114,3 +114,4 @@ footer {
   color: white;
   margin-top: 40px;
 }
+
